@@ -2,6 +2,9 @@
 <h3>
 An app that lets you subscribe the courses using Room db - Kotlin
   </h3>
+  <br>
+  <b>*Note-Logout feature is not implemented so if you want to quit you can simply close the application and restart </b>
+  
   
   <h2> 
 Technoligies Used </h2>
